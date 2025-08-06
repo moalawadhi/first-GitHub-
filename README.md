@@ -9,11 +9,11 @@ This project explores the various factors that influence drinking water quality,
 ## Dataset
 
 The dataset used for this analysis is provided by Thüringer Fernwasserversorgung. It includes time series data of water quality indicators such as temperature, pH, chlorine levels, and turbidity, measured at various points in the water distribution system.
+https://zenodo.org/records/3884398
 
 ## Analysis
 
 The analysis involves implementing a change detection system to identify shifts in water quality over time. Key findings include the identification of significant anomalies related to water quality indicators, which can alert water supply companies to potential issues.
-https://zenodo.org/records/3884398
 
 ## How to Run
 
