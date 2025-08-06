@@ -22,5 +22,5 @@ https://zenodo.org/records/3884398
 3. Ensure you have Python installed on your system.
 4. Install the required dependencies using pip:
    ```bash
-   pip install -r requirements.txt
+
    
